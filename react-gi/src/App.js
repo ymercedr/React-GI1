@@ -4,7 +4,7 @@ import React, { Component } from "react";
 import BasicInfo from "./components/BasicInfo";
 
 export default class App extends Component {
-  // EASY
+  // EASY + MEDIUM
   // constructor(props) {
   //   super(props);
   //   this.state = {
